@@ -29,7 +29,7 @@
 
 .contenedor3 {
     background-color: palevioletred;
-    height: 500px;
+    height: 400px;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
@@ -37,7 +37,7 @@
 
 .contenedor4 {
     background-color: tan;
-    height: 900px;
+    height: 300px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
