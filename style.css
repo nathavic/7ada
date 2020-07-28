@@ -1,0 +1,46 @@
+.contenedor {
+    background-color: plum;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tarjeta {
+    background-color: lightgoldenrodyellow;
+    width: 200px;
+    height: 200px;
+    border: 2px double grey;
+}
+
+.contenedor1 {
+    background-color: burlywood;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contenedor2 {
+    background-color: cadetblue;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contenedor3 {
+    background-color: palevioletred;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.contenedor4 {
+    background-color: tan;
+    height: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+}

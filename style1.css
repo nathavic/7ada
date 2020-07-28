@@ -1,0 +1,40 @@
+h1 {
+    color: #0081A7;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    height: 10px;
+    color: #f9c74f;
+    text-align: center;
+}
+
+.tarjeta {
+    background-color: #F07167;
+    width: 260px;
+    height: 260px;
+    text-align: center;
+    border: 5px dotted #00AFB9;
+    border-radius: 5%;
+}
+
+.contenedor {
+    background-color: #f9c74f;
+    height: 450px;
+    margin: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contenedor1 {
+    background-color: #f9c74f;
+    height: 900px;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}

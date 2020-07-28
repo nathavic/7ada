@@ -1,0 +1,30 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: block;
+}
+
+.inline {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.none {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.boton {
+    width: auto;
+    height: 30px;
+    background-color: cadetblue;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid darkkhaki;
+    border-radius: 10px;
+}
